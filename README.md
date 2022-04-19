@@ -1,20 +1,20 @@
 # Intro-to-Algorithm
 NYCU 2021 Fall / professor: 吳凱強
 
-Recurrences
+．Recurrences
 
-Hashing
+．Hashing
 
-Graphs
+．Graphs
 
-Strongly Connected Components
+．Strongly Connected Components
 
-Shortest Paths
+．Shortest Paths
 
-Dynamic Programming
+．Dynamic Programming
 
-Greedy Algorithms
+．Greedy Algorithms
 
-Minimum Spanning Trees
+．Minimum Spanning Trees
 
-Network Flow
+．Network Flow
