@@ -1,4 +1,4 @@
-# Intro-to-Algorithm-
+# Intro-to-Algorithm
 NYCU 2021 Fall / professor: 吳凱強
 
 Recurrences
